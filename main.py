@@ -28,7 +28,7 @@ club_data = {
     },
     'Math Club': {
         'Description': 'Enhancing mathematical skills through competitions and activities.',
-        'Meeting Time': 'Every Friday 4:00-5:00 PM',
+        'Meeting Time': 'Every Friday 2:30-3:30 PM',
         'Location': '5th Floor Classrooms (any classroom)',
         'Club Moderator': 'Mr. Ferma',
         'Number of Members': 28,
